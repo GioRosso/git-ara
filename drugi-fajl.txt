@@ -1,0 +1,7 @@
+Learn Enough Git to Be Dangerous
+Michael Hartl
+
+An Introduction to Version Control with Git
+
+
+--- Inicijacija repozitorija završena
