@@ -3,3 +3,14 @@ The -u option to git push sets GitHub as the upstream repository, which means we
 
 -::: adding files :::-
 MH: "I suggest getting in the habit of running git add -A unless there’s a specific reason not to.""
+
+-::: ignoring files :::-
+Git lets us ignore such files using a special hidden configuration file called .gitignore.
+
+-::: branching and merging :::-
+One of the most powerful features of Git is its ability to make branches, which are effectively complete self-contained copies of the project source, together with the ability to merge one branch into another, thereby incorporating the changes into the original branch.
+
+
+:: new branch ::
+Our first step is to use git checkout with the -b option, which makes a new branch called about-page and checks it out at the same time
+- git checkout -b about-page
