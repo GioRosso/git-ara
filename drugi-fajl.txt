@@ -3,5 +3,4 @@ Michael Hartl
 
 An Introduction to Version Control with Git
 
-
 --- Inicijacija repozitorija završena

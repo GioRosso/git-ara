@@ -1,0 +1,2 @@
+-- git push -u origin master --
+The -u option to git push sets GitHub as the upstream repository, which means we’ll be able to download any changes automatically when we run git pull starting in Section 4.1. Don’t worry about these details, though; you will almost always copy such commands from GitHub and probably won’t ever have to figure them out on your own.
