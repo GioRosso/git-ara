@@ -1,1 +1,3 @@
 -- GIT ara je moj projekat za vježbanje VCS: Version control sistema
+
+- ♓️ rano je jutro, a dobro ne baš rano, ja još uvijek uz Hartlov tutorijal
