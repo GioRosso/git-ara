@@ -1,0 +1,7 @@
+Učimo branching, merging & pull requests.
+
+$ git status
+$ git add -A
+$ git commit -m "Dodajemo treću granu, pull req za master"
+$ git checkout -b 2016_aug_treca_grana --- "2016_aug_treca_grana"
+$ git push origin 2016_aug_treca_grana
