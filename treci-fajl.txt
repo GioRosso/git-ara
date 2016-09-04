@@ -5,3 +5,14 @@ $ git add -A
 $ git commit -m "Dodajemo treću granu, pull req za master"
 $ git checkout -b 2016_aug_treca_grana --- "2016_aug_treca_grana"
 $ git push origin 2016_aug_treca_grana
+
+
+
+# Hajdemo ponovo, napravio sam pravu zavrzlamu
+# Iz postojećih promjena se može napraviti funkcionalna grana
+# $ git checkout -b nova grana
+--- tek ovdje se pravi dodavanje fajlova u granu i comit
+
+# Hajde da probamo, pa ćemo s promjenama nastaviti kasnije
+# Generisanje nove grane je uspjelo, prebaciću se nakon ovog teksta na master
+# kako bih se uvjerio da u trećem fajlu nema ovog što sam upravo napisao.
